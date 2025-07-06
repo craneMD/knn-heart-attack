@@ -13,4 +13,4 @@ This project uses the K-Nearest Neighbors (KNN) algorithm to predict whether a p
 - Scikit-learn
 - Matplotlib / Seaborn
 
-🔗 [View the Colab Notebook]([https://colab.research.google.com/drive/your-link-here](https://colab.research.google.com/drive/17Ph3fOaWmtJPYU4493aviXVFtYKkOWkj#scrollTo=CaY4speuW1Mr))
+🔗 [View the Colab Notebook](https://colab.research.google.com/drive/17Ph3fOaWmtJPYU4493aviXVFtYKkOWkj#scrollTo=CaY4speuW1Mr)
